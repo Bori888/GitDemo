@@ -1,1 +1,1 @@
- a ketto.txt tartatalma modosult
+ a egy.txt tartatalma modosult
